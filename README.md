@@ -1,10 +1,8 @@
 # m-m-i
-<font size="4">
-  <p style="color:#27ebe2;">
+<font size="6">
 <b>m-m-i</b>
- </p>
 <br> 
-Movement-Music-Image Project
+<font size="4"> Movement-Music-Image Project
 <br>
   <font size="1">
 Código creado por Verónica Carreño e Inés de Castro para proyecto "movimiento-música-imágen (m-m-i)"
